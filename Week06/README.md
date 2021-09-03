@@ -1,4 +1,5 @@
 Bài code được tham khảo từ [GitHub](https://github.com/MichaelJFodor/Page_Replacement_Algorithms)
+
 Với bài code này sẽ dùng:
 
 	. malloc và calloc để cấp phát bộ nhớ động cho các biến Seq(chứa chuỗi đầu vào), fault(chứa dấu * kkhi phát hiện lỗi) và table(quá trình thêm trang)
